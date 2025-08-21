@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rotas02/tela01.dart';
 import 'package:rotas02/tela02.dart';
+import 'package:rotas02/tela03.dart';
 
 void main() {
   runApp(const MyApp());
